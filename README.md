@@ -1,4 +1,4 @@
 LinkedIn: To do<br>
-GitHub: To do
-Portfolio: To do
+GitHub: To do<br>
+Portfolio: To do<br>
 Resume: To do
